@@ -35,8 +35,8 @@ Do the following:
 */
 let var1 = 'Jason';
 let var2 = 'Vann';
-if(var1 = 'Jason'){
-  var1 = 'Vann';
+if(var1 !== 'var2'){
+  var1 = 'Not equal';
 }
 
 console.log(var1);
