@@ -33,7 +33,13 @@ Do the following:
 
    HINT: no function required
 */
+let var1 = 'Jason';
+let var2 = 'Vann';
+if(var1 = 'Jason'){
+  var1 = 'Vann';
+}
 
+console.log(var1);
 
 
 
